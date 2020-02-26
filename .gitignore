@@ -1,0 +1,8 @@
+/bin/*
+/vendor/
+/build/
+
+# PHPUnit
+/phpunit.xml
+
+composer.lock
